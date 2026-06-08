@@ -49,9 +49,12 @@ This project builds and compares machine learning classification models to predi
 
 ```
 bank-marketing-prediction/
-├── Marketing_Data_Analysis_in_Banking.ipynb   # main notebook
-├── bank-additional-full.csv                   # dataset (UCI)
-├── report.pdf                                 # full project report
+├── code/
+│   └── Marketing_Data_Analysis_in_Banking.ipynb   # main notebook
+├── dataset/
+│   └── bank-additional-full.csv                   # UCI Bank Marketing dataset
+├── report/
+│   └── report.pdf                                 # full project report
 └── README.md
 ```
 
